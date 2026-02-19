@@ -1,5 +1,4 @@
 # Security module for AES encryption and key management
-from cryptography.fernet import Fernet
 import hashlib
 import base64
 
