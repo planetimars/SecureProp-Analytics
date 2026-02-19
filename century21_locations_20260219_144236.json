@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.century21albania.com/property/5374831/apartamenti-fundit-1-1-ne-kompleksin-jal-y-mar-residence-cpm133008.html",
+    "title": "APARTAMENTI FUNDIT  1+1 NË KOMPLEKSIN JAL Y MAR RESIDENCE!",
+    "price": "334,700 €",
+    "location": "Tirana",
+    "bedrooms": "1+1",
+    "area": "96 m²",
+    "extracted_from": "title_parsing",
+    "latitude": "41.3281482",
+    "longitude": "19.8184435",
+    "encrypted_address": "Z0FBQUFBQnBseE0taVk2Z0VETFB5Tmd3U0JaS0lEYmhTUjZFWE1MZ2tPZ25EZFZrcEZXRnkzR0w5dDdiN2ZZRTNDMXRuam9BeVN3MklaQnRmU1F1TFh4YVB1YS1uanVkMGc9PQ=="
+  },
+  {
+    "url": "https://www.century21albania.com/property/5388222/kompleksi-kodra-e-liqenit-paskuqan-shesim-apartament-2-1-everest133352.html",
+    "title": "Kompleksi “Kodra e Liqenit”, Paskuqan-Shesim apartament 2+1",
+    "price": "88,000 €",
+    "location": "KOMPLEKSI “KODRA E LIQENIT”,, Paskuqan",
+    "bedrooms": "2+1",
+    "area": "84 m²",
+    "extracted_from": "title_parsing",
+    "encrypted_address": "Z0FBQUFBQnBseE5CSkczMHF5QVF5eUVZMGlzTFpNUHA2aTNXRjZnZ1lzY0tVYW14QXoyUFZJejZwOHhieF9NNnRRSVJuYW16WXl1M1RIZ0hqVUdEb3gxZF91NzV3eWN5TmNvOFhpUWZZTHV6bzJwNlJSVHhQZy03VmgweE5EUUVBRWcydWVCcVBuTjY="
+  },
+  {
+    "url": "https://www.century21albania.com/property/5388221/kompleksi-kodra-e-liqenit-paskuqan-shesim-apartament-3-1-everest133351.html",
+    "title": "Kompleksi “Kodra e Liqenit”, Paskuqan-Shesim apartament 3+1",
+    "price": "111,700 €",
+    "location": "KOMPLEKSI “KODRA E LIQENIT”,, Paskuqan",
+    "bedrooms": "3+1",
+    "area": "108 m²",
+    "extracted_from": "title_parsing",
+    "encrypted_address": "Z0FBQUFBQnBseE5FWnpPdURaYjQxWVNLbGpaM0l0NVUwUWwwUm0wMnJNeEppSzRQT2xrT3NkU25HZ0wtX1RMVkhhMmF4OEFHbzduS2Q5Q3hWSXp5ZUJtcVdMTUtKSHhvMnhsZUVMN2szQ3QtQTI2aTA5OEJMbnBMWmgyd1JfVlFzcGpTSGVTeVh1a2Y="
+  },
+  {
+    "url": "https://www.century21albania.com/property/5389248/apartament-1-1-me-qira-ne-laprake-tirane-500eur-impact133380.html",
+    "title": "Apartament 1+1 Me Qira në Laprakë, Tiranë - 500€!",
+    "price": "500 €",
+    "location": "Tirana",
+    "bedrooms": "1+1",
+    "area": "65 m²",
+    "extracted_from": "title_parsing",
+    "latitude": "41.3281482",
+    "longitude": "19.8184435",
+    "encrypted_address": "Z0FBQUFBQnBseE5IaVZGQ09KU2p0WHpMcGYxU3JzNXRyeUt4U1oweFNTNU5TQjl0YllrRUpPYnNjbW9xVzlCYzNQX1JHM0ZBOUU2RDBSZnNCYWlMVTZ6RUhYZTB2UzZuQmc9PQ=="
+  },
+  {
+    "url": "https://www.century21albania.com/property/5388220/kompleksi-kodra-e-liqenit-paskuqan-shesim-apartament-1-1-everest133350.html",
+    "title": "Kompleksi “Kodra e Liqenit”, Paskuqan-Shesim apartament 1+1",
+    "price": "64,200 €",
+    "location": "KOMPLEKSI “KODRA E LIQENIT”,, Paskuqan",
+    "bedrooms": "1+1",
+    "area": "62 m²",
+    "extracted_from": "title_parsing",
+    "encrypted_address": "Z0FBQUFBQnBseE5LUm14bUlHMXlveHduMFE0N3ZrV2l1MTVURGxqY0xvOTF6eHhhRE1CSVBOUXpDbjhwTVg5S0Z6NEhxdWVIMWUwM1hjVTNzbFdnV3lGaTRCVTBzRkM1UWt2ZE1FREpuS2RwdXVMYU9OX3RhWUhFTm52YU02TkMzTDJqWVppa3BUYU4="
+  }
+]
