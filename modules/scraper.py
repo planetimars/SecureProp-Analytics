@@ -1,4 +1,4 @@
-import requests
+# Web scraper for Century21 Albania - Handles HTTP requests and parsingimport requests
 from bs4 import BeautifulSoup
 import time
 import re
